@@ -2,7 +2,7 @@
 
 An immersive and visually rich replica of Apple's Vision Pro homepage built with modern web technologies. This project aims to replicate Apple's design and motion experience using videos, animations, and smooth scrolling.
 
-🔗 **Live Demo:** [Flix Vision Pro](https://rococo-centaur-37dba0.netlify.app/)
+🔗 **Live Demo:** [🍏 Apple Vision Pro](https://rococo-centaur-37dba0.netlify.app/)
 
 ---
 
